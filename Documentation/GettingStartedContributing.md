@@ -63,3 +63,4 @@ Developer documentation:
 * [Coding patterns](Patterns.md)
 * [Smart pointers](SmartPointers.md)
 * [String formatting](StringFormatting.md)
+* [Providing a test262 diff for a LibJS change](LibJSTest262.md)
